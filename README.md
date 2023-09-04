@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/DrakeHermit/QR-Code-Component)
+- Solution URL: [Solution Github](https://github.com/DrakeHermit/QR-Code-Component)
 - Live Site URL: [Add live site URL here](https://musical-blini-c91f51.netlify.app/)
 
 ## My process
@@ -43,7 +43,7 @@ I want to focus more on responsive design since that's an area I'm lacking in. A
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/DrakeHermit)
+- Frontend Mentor - [@DrakeHermit](https://www.frontendmentor.io/profile/DrakeHermit)
 
 
 
