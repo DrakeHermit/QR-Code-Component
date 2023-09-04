@@ -11,7 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -23,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Solution Github](https://github.com/DrakeHermit/QR-Code-Component)
-- Live Site URL: [Add live site URL here](https://musical-blini-c91f51.netlify.app/)
+- Live Site URL: [Live site URL](https://dancing-gumdrop-56bc01.netlify.app/)
 
 ## My process
 
